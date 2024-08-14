@@ -44,6 +44,7 @@ class GFG {
         // returning the octal number
         return octalNumber;
     }
+
 	#festure203 changes by Developer Ana august2024 for citiBank ApplicationExceptionpublic class MergeTwoArrays2 {
     public static void main(String[] args)
     {
@@ -88,6 +89,20 @@ class GFG {
             // print the element
             System.out.println(c[i]);
         }
+    }
+}
+
+
+    #feature202 branch new method added by Developer vivek on august2024
+     Driver Code
+    public static void main(String[] args)
+    {
+        // instantiating the class
+        GFG ob = new GFG();
+ 
+        // calling and printing the
+        // decimalToOctal() function
+        System.out.println(ob.decimalToOctal(1001001));
     }
 }
 
