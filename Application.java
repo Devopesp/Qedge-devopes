@@ -44,3 +44,15 @@ class GFG {
         // returning the octal number
         return octalNumber;
     }
+    #feature202 branch new method added by Developer vivek on august2024
+     Driver Code
+    public static void main(String[] args)
+    {
+        // instantiating the class
+        GFG ob = new GFG();
+ 
+        // calling and printing the
+        // decimalToOctal() function
+        System.out.println(ob.decimalToOctal(1001001));
+    }
+}
